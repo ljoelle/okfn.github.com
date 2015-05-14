@@ -5,32 +5,24 @@ layout: events
 
 # Hangouts
 
-We run regular online hangouts where we get together to discuss and build.
+We run regular (monthly) online hangouts where Labs members get together to discuss and build things.
 
-## Next labs hangout: 16th April 2015
+<iframe width="560" height="315" src="//www.youtube.com/embed/JsC71suLLRo" frameborder="0" allowfullscreen></iframe>
 
-The hangout is an opportunity for folks to present projects and ideas and also to discuss any general Labs items such as improvements to website, events etc.
+The hangout is an opportunity for folks to present projects and ideas and also to discuss any general Labs items such as improvements to website, events, etc. It is informal and anyone can come along and contribute. If you would like specifically to present something please jump into [the etherpad][etherpad] and add it to the agenda (slots are max 5m).
 
-It’s super informal and anyone can come along and contribute. If you’d like specifically to present something please jump into [the etherpad][etherpad] and add it to the agenda (slots are max 5m).
-
-* When: Thursday 16th April 2015. 1700-1800 BST (1200-1300 EDT, 1800-1900 CEST) [time zone schedule](http://bit.ly/1GP79Zy)
-* Where: Google Hangout - we’ll announce link on the day on the [list and IRC (#okfn)][contact]
+* When: Thursdays at 1700-1800 BST (1200-1300 EDT, 1800-1900 CEST) [time zone schedule](http://everytimezone.com/#2015-6-18,240,cn3)
+* Where: Google Hangouts - we will announce the join link on the day on the [list and IRC (#okfn)][contact]
 * Sign up: (optional but recommended) add your name to [the etherpad][etherpad]
-
-# Past labs hangouts
-
- * 15th May 2014
- * 20th March 2014
- * 20th February 2014
- * 23rd January 2013
- * 19th November 2013
+* Recordings of previous events are posted to our [YouTube channel][youtube]
 
 [contact]: /contact/
 [etherpad]: http://pad.okfn.org/p/labs-hangouts
+[youtube]: https://www.youtube.com/channel/UCQe-pXn0XZzmRzvyOMZpfEg
 
 ## Humanities Hangout
 
-The Humanities Hangout is for people interested in tapping in to the increasing amount of **open cultural data and content** to create **apps and insights**.
+For people interested in tapping in to the increasing amount of **open cultural data and content** to create **apps and insights**.
 
 <ul>
 {% for post in site.categories.blog %}
